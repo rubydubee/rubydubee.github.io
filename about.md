@@ -1,19 +1,12 @@
 ---
 layout: page
-title: About Pixyll
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+<center><h3> Hi! My name is Pradyumna Dandwate</h3></center>
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I am a programmer and co-founder of [CourseBuffet](http://www.coursebuffet.com). I am also working as a Rails developer for [@Appthority](http://www.twitter.com/appthority). Previously I have worked for [@Pactapp](http://www.twitter.com/pactapp) and [@Avaya](http://www.twitter.com/Avaya). My interest lies in Web applications, Databases, APIs and things like that! I have a B.Tech degree in Computer Science from [COEP](http://en.wikipedia.org/wiki/College_of_Engineering,_Pune). 
 
-Thanks to the following:
+If I am not coding, I mostly like to read(anything ranging from Tech books to Mythology), listen to music, sketch or just go for walk :)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+![Pradyumna Dandwate](/images/profile.jpg)
